@@ -1,0 +1,7 @@
+node_modules
+test
+.prettierrc
+.gitignore
+.gitgit
+ Dockerfile
+ README.md
